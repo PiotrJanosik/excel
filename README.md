@@ -7,15 +7,8 @@ Has anyone dealt with it and can explain this strange phenomenon? . I've include
 
 
 
-
-
-
-
-
-
-
-
-# excelCzy ktos miał z tym do czynienia i porafi to dziwne zachowanie wytłumaczyć? .
+# excel 
+Czy ktos miał z tym do czynienia i porafi to dziwne zachowanie wytłumaczyć? .
 zamieściłem pliki excela do mojego wpisu.Jeden to plik excel drugi to sheet.xml pochodzący z niego po rozpakowaniu..https://github.com/PiotrJanosik/excel
 Jak wiecie excel to paczka spkowanych plikow.
 Rozpakujcie sobie myCellEx.xlsx  i zobaczcie wpisy w pliku sheet.xml
