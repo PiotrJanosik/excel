@@ -20,8 +20,8 @@ zamieściłem pliki excela do mojego wpisu.Jeden to plik excel drugi to sheet.xm
 Jak wiecie excel to paczka spkowanych plikow.
 Rozpakujcie sobie myCellEx.xlsx  i zobaczcie wpisy w pliku sheet.xml
 Kolumna o nazwie B@Z1 ma wartość : 1378.
-Takie kolumny nie ma przecież !!!!!!!. Tam powinna być kolumna o nazwie : AZZ1 
-Chyba wykryłem wadę programu excel.
+Takie kolumny nie ma przecież . Tam powinna być kolumna o nazwie : AZZ1 
+
 Powinien zasygnalizować w takim przypadku bład bo nie ma adresu komorki B@Z1 a zobaczcie że wygenerowałem bedny plik sheet.xml w którym zapisany jest nie prawidłowy format adresu komorki.
 Celowo to zrobiłem..
 Ktoś cos wie dlaczego program excel na to pozwala ?
